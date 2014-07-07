@@ -136,7 +136,7 @@ category,display_name,id,source,source_id
 08C1B - Sleep Study Data - Respiratory - Events - Hypopnea,Hyopopnea event,hypopevent,,
 08C1C - Sleep Study Data - Respiratory - Events - Desaturation,Desaturation event,desatevent,SNOMED CT,238159008
 08C2 - Sleep Study Data - Respiratory - Indices,Apnea hypopnea index,ahi,,
-08C2 - Sleep Study Data - Respiratory - Indices,Apnea hypopnea index ? 15,ahigteq15,,
+08C2 - Sleep Study Data - Respiratory - Indices,Apnea hypopnea index > 15,ahigteq15,,
 08C2 - Sleep Study Data - Respiratory - Indices,Central apnea index ? 5,caigteq5,,
 08C2 - Sleep Study Data - Respiratory - Indices,Central apnea index: all desaturations,caiall,,
 08C2 - Sleep Study Data - Respiratory - Indices,Central apnea index: 4% desaturation,cai4percent,,
