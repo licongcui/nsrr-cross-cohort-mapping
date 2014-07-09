@@ -8,7 +8,7 @@ category,display_name,id,source,source_id
 02 - Anthropometry,Height,height,SNOMED CT,50373000
 02 - Anthropometry,Hip circumference,hipcircum,SNOMED CT,284472007
 02 - Anthropometry,Neck circumference,neckcircum,SNOMED CT,420236003
-02 - Anthropometry,Tonsillar size,tonsilsize,,
+02 - Anthropometry,Tonsilar size,tonsilsize,,
 02 - Anthropometry,Waist circumference,waistcirum,SNOMED CT,276361009
 02 - Anthropometry,Waist/hip ratio,waisthip,SNOMED CT,248367009
 02 - Anthropometry,Weight,weight,SNOMED CT,27113001
