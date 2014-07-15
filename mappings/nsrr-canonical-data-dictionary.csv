@@ -68,6 +68,7 @@ category,display_name,id,source,source_id
 05 - Medications,Biguanide,biguanide,FDA,
 05 - Medications,Bile Acid Sequestrant,bileacidseq,FDA,
 05 - Medications,Calcium Channel Blocker,calcchanblocker,FDA,
+05 - Medications,Cardiac Glycoside,digitalis,FDA,
 05 - Medications,Central Nervous System Stimulant,cnsstimulant,FDA,
 05 - Medications,Corticosteroid,corticoster,FDA,
 05 - Medications,Dihydropyridine Calcium Channel Blocker,dhpcalchanblocker,FDA,
