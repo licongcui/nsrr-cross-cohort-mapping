@@ -107,7 +107,8 @@ category,display_name,id,source,source_id
 05 - Medications,Vasodilator,vasodilator,FDA,
 05 - Medications,Xanthine Oxidase Inhibitor,xanthoxidinh,FDA,
 06 - Health Habits,Alcohol consumption,alcohol,SNOMED CT,219006
-06 - Health Habits,Self reported bed and wake times,selfrepbedwaketimes,,
+06 - Health Habits,Self reported bed time,selfrepbedtime,,
+06 - Health Habits,Self reported wake time,selfrepwaketime,,
 06 - Health Habits,Self reported sleep duration,selfrepsleepduration,,
 06 - Health Habits,Smoking status,smoking,SNOMED CT,365981007
 07 - Laboratory Data,Fasting glucose,fastingglucose,SNOMED CT,167096006
@@ -135,10 +136,11 @@ category,display_name,id,source,source_id
 08C1A - Sleep Study Data - Respiratory - Events - Apnea,Obstructive apnea event,osaevent,,
 08C1A - Sleep Study Data - Respiratory - Events - Apnea,Obstructive sleeps apneas/hour,osaperhr,,
 08C1B - Sleep Study Data - Respiratory - Events - Hypopnea,Hyopopnea event,hypopevent,,
+08C1B - Sleep Study Data - Respiratory - Events - Hypopnea,Hyopopneas/hour,hypopperhr,,
 08C1C - Sleep Study Data - Respiratory - Events - Desaturation,Desaturation event,desatevent,SNOMED CT,238159008
 08C2 - Sleep Study Data - Respiratory - Indices,Apnea hypopnea index,ahi,,
-08C2 - Sleep Study Data - Respiratory - Indices,Apnea hypopnea index > 15,ahigteq15,,
-08C2 - Sleep Study Data - Respiratory - Indices,Central apnea index ? 5,caigteq5,,
+08C2 - Sleep Study Data - Respiratory - Indices,Apnea hypopnea index greater than or equal to 15,ahigteq15,,
+08C2 - Sleep Study Data - Respiratory - Indices,Central apnea index greater than or equal to 5,caigteq5,,
 08C2 - Sleep Study Data - Respiratory - Indices,Central apnea index: all desaturations,caiall,,
 08C2 - Sleep Study Data - Respiratory - Indices,Central apnea index: 4% desaturation,cai4percent,,
 08C2 - Sleep Study Data - Respiratory - Indices,Central apnea index: 4% desaturation or arousal,cai4percentarousal,,
