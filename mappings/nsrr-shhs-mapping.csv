@@ -534,7 +534,6 @@ category,display_name,id,shhs,definition,source,time,method,formula,equipment,li
 08G3 - Sleep Study Data - Oxygen Saturation - Nadir,Nadir oxygen saturation with respiratory events,nadiro2respevents,,,,,,,,
 08G4 - Sleep Study Data - Oxygen Saturation -  Indices,Oxygen desaturation index,o2desatindex,,,,,,,,
 08H - Sleep Study Data - Heart Rate,Average heart rate,avgheartrate,,,,,,,,
-,,,,,,,,,,
 08I - Sleep Study Data - Electrocardiogram - Arrhythmia,Atrial fibrillation - polysomonogram - paroxysmal,afibpsgparox,,,,,,,,
 08I - Sleep Study Data - Electrocardiogram - Arrhythmia,Atrial fibrillation - polysomonogram - persistent,afibpsgpersist,,,,,,,,
 08J - Sleep Study Data - Quality,Quality of sleep study,sleepstudyquality,overall_shhs1,PSG Quality Assessment (SHHS1): Overall signal quality,,,,,,
