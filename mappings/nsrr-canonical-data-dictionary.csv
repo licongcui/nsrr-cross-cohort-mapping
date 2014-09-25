@@ -185,6 +185,7 @@ category,display_name,id,source,source_id
 08D - Sleep Study Data - Stages,Stage N1 sleep time,stagen1sleep,,
 08D - Sleep Study Data - Stages,Stage N2 sleep time,stagen2sleep,,
 08D - Sleep Study Data - Stages,Stage N3 sleep time,stagen3sleep,,
+08D - Sleep Study Data - Stages,Stage 1 sleep time,stage1sleep,,
 08D - Sleep Study Data - Stages,Stage 2 sleep time,stage2sleep,,
 08D - Sleep Study Data - Stages,Stage 3 sleep time,stage3sleep,,
 08E1 - Sleep Study Data - Arousals -Events,Arousal events,arousevents,,
