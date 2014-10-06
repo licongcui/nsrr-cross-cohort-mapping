@@ -3,7 +3,8 @@ SHHS,Baseline PSG,Calculated,Baseline PSG: Compumedics P-Series Sleep Monitoring
 ,Baseline visit,Measured,Electrocardiograph - 12 lead
 ,Follow-up PSG,Recorded,"Follow-up PSG: Compumedics P-series Sleep Monitoring System, version 3"
 ,Follow-up visit,Reported by parent cohort,Health interview
-,,Reported by subject,Medication review
-,,Transcribed,Sphygnomanometer - mercury
+,,Reported by subject,Medication review form
+,,Transcribed with physician review,Sphygnomanometer - mercury
 ,,Derived,SECA Integra 815 digital scale 
 ,,, tape measure
+,,,Health interview form
