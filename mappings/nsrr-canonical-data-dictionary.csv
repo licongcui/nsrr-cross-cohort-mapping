@@ -131,13 +131,13 @@ category,display_name,id,source,source_id
 08B - Sleep Study Data - Time,Sleep onset latency,sleeponsetlatency,,
 08B - Sleep Study Data - Time,Time awake after sleep onset,timeawakeaftersleep,,
 08B - Sleep Study Data - Time,Time in bed duration,timeinbedduration,,
-08C1A - Sleep Study Data - Respiratory - Events - Apnea,Central sleep apnea event,csaevent,,
+08C1A - Sleep Study Data - Respiratory - Events - Apnea,Central sleep apnea events,csaevent,,
 08C1A - Sleep Study Data - Respiratory - Events - Apnea,Central sleep apneas/hour,csaperhr,,
-08C1A - Sleep Study Data - Respiratory - Events - Apnea,Obstructive apnea event,osaevent,,
+08C1A - Sleep Study Data - Respiratory - Events - Apnea,Obstructive apnea events,osaevent,,
 08C1A - Sleep Study Data - Respiratory - Events - Apnea,Obstructive sleeps apneas/hour,osaperhr,,
-08C1B - Sleep Study Data - Respiratory - Events - Hypopnea,Hyopopnea event,hypopevent,,
+08C1B - Sleep Study Data - Respiratory - Events - Hypopnea,Hyopopnea events,hypopevent,,
 08C1B - Sleep Study Data - Respiratory - Events - Hypopnea,Hyopopneas/hour,hypopperhr,,
-08C1C - Sleep Study Data - Respiratory - Events - Desaturation,Desaturation event,desatevent,SNOMED CT,238159008
+08C1C - Sleep Study Data - Respiratory - Events - Desaturation,Desaturation events,desatevent,SNOMED CT,238159008
 08C2 - Sleep Study Data - Respiratory - Indices,Apnea hypopnea index,ahi,,
 08C2 - Sleep Study Data - Respiratory - Indices,Apnea hypopnea index greater than or equal to 15,ahigteq15,,
 08C2 - Sleep Study Data - Respiratory - Indices,Central apnea index greater than or equal to 5,caigteq5,,
