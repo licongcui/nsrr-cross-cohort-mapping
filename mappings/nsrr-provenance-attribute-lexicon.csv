@@ -6,5 +6,6 @@ SHHS,Baseline PSG,Calculated,Baseline PSG: Compumedics P-Series Sleep Monitoring
 ,,Reported by subject,Medication review form
 ,,Transcribed with physician review,Sphygnomanometer - mercury
 ,,Derived,SECA Integra 815 digital scale 
-,,, tape measure
-,,,Health interview form
+,,Observed, tape measure
+,,Reported by scorer,Health interview form
+,,,PSG scoring notes form
