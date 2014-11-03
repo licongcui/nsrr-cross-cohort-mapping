@@ -1,6 +1,6 @@
 source,time,method,equipment
 SHHS,Baseline PSG,Calculated,Baseline PSG: Compumedics P-Series Sleep Monitoring System
-,Baseline visit,Measured,Electrocardiograph - 12 lead
+CHAT,Baseline visit,Measured,Electrocardiograph - 12 lead
 ,Follow-up PSG,Recorded,"Follow-up PSG: Compumedics P-series Sleep Monitoring System, version 3"
 ,Follow-up visit,Reported by parent cohort,Health interview
 ,,Reported by subject,Medication review form
@@ -8,6 +8,15 @@ SHHS,Baseline PSG,Calculated,Baseline PSG: Compumedics P-Series Sleep Monitoring
 ,,Derived,SECA Integra 815 digital scale 
 ,,Observed, tape measure
 ,,Reported by scorer,Health interview form
-,,,PSG scoring notes form
-,,,Sleep habits questionnaire
+,,Reported by parent or guardian,PSG scoring notes form
+,,Documented by ENT,Sleep habits questionnaire
 ,,,Quality assessment & preliminary report form (SHHS1)
+,,,Child demographic information form
+,,,ENT evaluation and pre-operative questionnaire
+,,,inelastic measuring tape x long with lead before the zero line
+,,,Inelastic measuring tape .5 cm with lead before the zero line
+,,,Healthometer digital scale or similar
+,,,Holtain stadiometer
+,,,Sliding caliper
+,,,Child behavior checklist
+,,,CHAT medical history form
