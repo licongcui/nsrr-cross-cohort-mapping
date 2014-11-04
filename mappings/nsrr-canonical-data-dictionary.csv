@@ -211,7 +211,7 @@ category,display_name,id,source,source_id
 08I - Sleep Study Data - Electrocardiogram - Arrhythmia,Atrial fibrillation - polysomonogram - paroxysmal,afibpsgparox,,
 08I - Sleep Study Data - Electrocardiogram - Arrhythmia,Atrial fibrillation - polysomonogram - persistent,afibpsgpersist,,
 08J - Sleep Study Data - Quality,Quality of sleep study,sleepstudyquality,,
-08J - Sleep Study Data - Quality,Signal quality codes,,,
+08J - Sleep Study Data - Quality,Signal quality code,signalqualitycode,,
 08K - Sleep Study Data - End-Tidal CO2,Capnograph type,capnotype,,
 08K - Sleep Study Data - End-Tidal CO2,Hours of usable CO2,hoursco2,,
 08K - Sleep Study Data - End-Tidal CO2,Average end-tidal CO2 - NREM,avgco2nrem,,

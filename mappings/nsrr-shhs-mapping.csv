@@ -603,7 +603,7 @@ category,display_name,id,shhs,definition,source,time,method,formula,equipment,li
 08I - Sleep Study Data - Electrocardiogram - Arrhythmia,Atrial fibrillation - polysomnogram - persistent,afibpsgpersist,,,,,,,,
 08J - Sleep Study Data - Quality,Quality of sleep study,sleepstudyquality,overall_shhs1,PSG Quality Assessment (SHHS1): Overall signal quality,SHHS1,Baseline PSG,Reported by scorer,,Sleep data - Quality assessment & preliminary report form,
 08J - Sleep Study Data - Quality,Quality of sleep study,sleepstudyquality,overall_shhs2,PSG Quality Assessment (SHHS2): Overall signal quality,SHHS2,Follow-up PSG,Reported by scorer,,,
-08J - Sleep Study Data - Quality,Signal quality codes,,,,,,,,,
+08J - Sleep Study Data - Quality,Signal quality code,signalqualitycode,,,,,,,,
 10 - Sleep Symptoms,Early morning awakening,earlyawakening,,,,,,,,
 10 - Sleep Symptoms,Epworth Sleepiness Scale score,epworthscore,ess_s2,Epworth Sleepiness Scale score (SHHS2),,Follow-up visit,Reported by subject,,Questionnaire,
 10 - Sleep Symptoms,Modified Epworth Sleepiness Scale score,modepworthscore,,,,,,,,
