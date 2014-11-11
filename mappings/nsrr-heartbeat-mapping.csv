@@ -1,8 +1,9 @@
 category,display_name,id,heartbeat,definition,source,time,method,formula,equipment,link
-01 - Demographics,Age,age,,,,,,,,
+01 - Demographics,Age,age,age,Age,,,,,,
 01 - Demographics,Ethnicity,ethnicity,,,,,,,,
-01 - Demographics,Gender,gender,,,,,,,,
-01 - Demographics,Race,race,,,,,,,,
+01 - Demographics,Gender,gender,male,Male gender,,,,,,
+01 - Demographics,Race,race,amerindian,HHQB: Race: American Indian or Alaska Native,,,,,,
+01 - Demographics,Race,race,asian,HHQB: Race: Asian,,,,,,
 02 - Anthropometry,Body mass index,bmi,,,,,,,,
 02 - Anthropometry,Body mass index Z-Score,bmizscore,,,,,,,,
 02 - Anthropometry,Height,height,,,,,,,,
