@@ -11,7 +11,7 @@ CHAT,Baseline visit,Measured,Electrocardiograph - 12 lead
 ,,Reported by parent or guardian,PSG scoring notes form
 ,,Documented by ENT,Sleep habits questionnaire
 ,,PI-physical examination and review of medical and sleep history,Quality assessment & preliminary report form (SHHS1)
-,,,Child demographic information form
+,,Fasting venipuncture,Child demographic information form
 ,,,ENT evaluation and pre-operative questionnaire
 ,,,Inelastic measuring tape x long with lead before the zero line
 ,,,Inelastic measuring tape .5 cm with lead before the zero line
@@ -22,3 +22,8 @@ CHAT,Baseline visit,Measured,Electrocardiograph - 12 lead
 ,,,CHAT medical history form
 ,,,CHAT protocol defined eligibility form
 ,,,CHAT physical examination form
+,,,Embla PSG system
+,,,Compumedics PSG system
+,,,Xltek PSG system
+,,,Biologic PSG system
+,,,Grass Twin PSG sytem
