@@ -13,8 +13,8 @@ CHAT,Baseline visit,Measured,Electrocardiograph - 12 lead
 ,,PI-physical examination and review of medical and sleep history,Quality assessment & preliminary report form (SHHS1)
 ,,Fasting venipuncture,Child demographic information form
 ,,Administered by psychometrist,ENT evaluation and pre-operative questionnaire
-,,,Inelastic measuring tape x long with lead before the zero line
-,,,Inelastic measuring tape .5 cm with lead before the zero line
+,,Coded by scoreer,Inelastic measuring tape x long with lead before the zero line
+,,Reported by child,Inelastic measuring tape .5 cm with lead before the zero line
 ,,,Healthometer digital scale or similar
 ,,,Holtain stadiometer
 ,,,Sliding caliper
@@ -31,3 +31,15 @@ CHAT,Baseline visit,Measured,Electrocardiograph - 12 lead
 ,,,NEPSY form
 ,,,NEPSY-II inhibition scores form
 ,,,NEPWRD- Nepsy- II word generation scores
+,,,CHAT PSG QS form
+,,,"Capnograph type - (Novametrix, BCI)"
+,,,"Oximeter type - (Masimo, Nonin)"
+,,,Purdue pegs form
+,,,Beery VMI form
+,,,Conners' parent rating scale form
+,,,BRIEF form
+,,,BRIEF Teacher's form
+,,,PAQL 1/2 (PedsQL- parent report)
+,,,CHQL 1/2/faces (PedsQL- child report)
+,,,Differential ability scales (DAS-II) form
+,,,WRAML - 2 form
