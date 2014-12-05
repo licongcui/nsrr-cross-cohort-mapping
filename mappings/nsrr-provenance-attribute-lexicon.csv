@@ -1,10 +1,10 @@
 source,time,method,equipment
 SHHS,Baseline PSG,Calculated,Baseline PSG: Compumedics P-Series Sleep Monitoring System
 CHAT,Baseline visit,Measured,Electrocardiograph - 12 lead
-,Follow-up PSG,Recorded,"Follow-up PSG: Compumedics P-series Sleep Monitoring System, version 3"
+Heartbeat,Follow-up PSG,Recorded,"Follow-up PSG: Compumedics P-series Sleep Monitoring System, version 3"
 ,Follow-up visit,Reported by parent cohort,Health interview
-,,Reported by subject,Medication review form
-,,Transcribed with physician review,Sphygnomanometer - mercury
+,Final visit,Reported by subject,Medication review form
+,Final PSG,Transcribed with physician review,Sphygnomanometer - mercury
 ,,Derived,SECA Integra 815 digital scale 
 ,,Observed, tape measure
 ,,Reported by scorer,Health interview form
@@ -14,7 +14,7 @@ CHAT,Baseline visit,Measured,Electrocardiograph - 12 lead
 ,,Fasting venipuncture,Child demographic information form
 ,,Administered by psychometrist,ENT evaluation and pre-operative questionnaire
 ,,Coded by scoreer,Inelastic measuring tape x long with lead before the zero line
-,,Reported by child,Inelastic measuring tape .5 cm with lead before the zero line
+,,Reported by child,
 ,,,Healthometer digital scale or similar
 ,,,Holtain stadiometer
 ,,,Sliding caliper
@@ -41,3 +41,7 @@ CHAT,Baseline visit,Measured,Electrocardiograph - 12 lead
 ,,,BRIEF Teacher's form
 ,,,Differential ability scales (DAS-II) form
 ,,,WRAML - 2 form
+,,,inelastic tape measure .5 cm with lead before the zero line
+,,,"Inelastic measuring tape 150 cm. long, accurate to 0.1 cm. with a lead before the zero mark"
+,,,standard 12-lead ECG- MAC 1200 electrocardiograph or an equivalent
+,,,Embletta portable sleep monitoring system
