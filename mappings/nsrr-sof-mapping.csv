@@ -1,7 +1,7 @@
 category,display_name,id,sof,definition,source,time,method,formula,equipment,link
 01 - Demographics,Age,age,,,,,,,,
 01 - Demographics,Ethnicity,ethnicity,,,,,,,,
-01 - Demographics,Gender,gender,,,,,,,,
+01 - Demographics,Gender,gender,gender,Gender,,,,,,
 01 - Demographics,Race,race,,,,,,,,
 02 - Anthropometry,Body mass index,bmi,,,,,,,,
 02 - Anthropometry,Body mass index Z-Score,bmizscore,,,,,,,,
