@@ -3,10 +3,10 @@ SHHS,Baseline PSG,Calculated,Baseline PSG: Compumedics P-Series Sleep Monitoring
 CHAT,Baseline visit,Measured,Electrocardiograph - 12 lead
 Heartbeat,Follow-up PSG,Recorded,"Follow-up PSG: Compumedics P-series Sleep Monitoring System, version 3"
 CFS,Follow-up visit,Reported by parent cohort,Health interview
-,Final visit,Reported by subject,Medication review form
+SOF,Final visit,Reported by subject,Medication review form
 ,Final PSG,Transcribed with physician review,Sphygnomanometer - mercury
 ,Visit 5,Derived,SECA Integra 815 digital scale 
-,,Observed, tape measure
+,Visit 8,Observed, tape measure
 ,,Reported by scorer,Health interview form
 ,,Reported by parent or guardian,PSG scoring notes form
 ,,Documented by ENT,Sleep habits questionnaire
@@ -67,3 +67,4 @@ CFS,Follow-up visit,Reported by parent cohort,Health interview
 ,,,HeartBeat patient health questionnaire (PHQ-9)
 ,,,Heartbeat sleep health final questionnaire form
 ,,,MAC6 cardiograph
+,,,Compumedics Siesta Unit
