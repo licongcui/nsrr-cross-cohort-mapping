@@ -3,6 +3,10 @@ category,display_name,id,source,source_id
 01 - Demographics,Ethnicity,ethnicity,,
 01 - Demographics,Gender,gender,,
 01 - Demographics,Race,race,,
+01 - Demographics,Education,education,,
+01 - Demographics,Income,income,,
+01 - Demographics,Employed,employed,,
+01 - Demographics,Shift work,shiftwork,,
 02 - Anthropometry,Body mass index,bmi,SNOMED CT,60621009
 02 - Anthropometry,Body mass index Z-Score,bmizscore,,
 02 - Anthropometry,Height,height,SNOMED CT,50373000
@@ -41,6 +45,11 @@ category,display_name,id,source,source_id
 04 - Medical History,Stroke - history,strokehist,SNOMED CT,230690007
 04 - Medical History,Taking cardiovascular medication,cvmedshist,,
 04 - Medical History,Transient ischemic attack,tiahist,SNOMED CT,266257000
+04 - Medical History,Peripheral vascular disease,pvdhist,,
+04 - Medical History,"Revascularization (PTCA, CABG) - history",revaschist,,
+04 - Medical History,Angina pectoris,anginahist,,
+04 - Medical History,Cardiac arrest - history,cardarresthist,,
+04 - Medical History,Bariatric surgery,bariatrichist,,
 04A - Medical History - Sleep Disorders,History of adenoidectomy,adenoidhist,,
 04A - Medical History - Sleep Disorders,History of adenotonsillectomy ,adenoidtonsilhist, , 
 04A - Medical History - Sleep Disorders,History of tonsillectomy,tonsilhist,,
@@ -56,6 +65,7 @@ category,display_name,id,source,source_id
 05 - Medications,Cholinesterase Inhibitor,cholinh,FDA,
 05 - Medications,alpha-Adrenergic Blocker,alphablocker,FDA,
 05 - Medications,alpha-Glucosidase Inhibitor,alphaglucos,FDA,
+05 - Medications,Aldosterone Receptor Blocker,aldostblocker,,
 05 - Medications,Angiotensin 2 Receptor Blocker,arb,FDA,
 05 - Medications,Angiotensin Converting Enzyme Inhibitor,aceinh,FDA,
 05 - Medications,Antiarrhythmic,antiarrhyth,FDA,
@@ -111,12 +121,17 @@ category,display_name,id,source,source_id
 06 - Health Habits,Self reported wake time,selfrepwaketime,,
 06 - Health Habits,Self reported sleep duration,selfrepsleepduration,,
 06 - Health Habits,Smoking status,smoking,SNOMED CT,365981007
+06 - Health Habits,Pack years,packyears,,
+06 - Health Habits,Caffeine intake,caffeineintake,,
 07 - Laboratory Data,Fasting glucose,fastingglucose,SNOMED CT,167096006
 07 - Laboratory Data,Fasting insulin,fastinginsulin,,
 07 - Laboratory Data,HDL cholesterol,hdlchol,SNOMED CT,102737005
 07 - Laboratory Data,LDL cholesterol,ldlchol,SNOMED CT,102739008
 07 - Laboratory Data,Total cholesterol,totalchol,SNOMED CT,301860006
 07 - Laboratory Data,Triglycerides,triglyc,SNOMED CT,85600001
+07 - Laboratory Data,Hemoglobin A1c,hba1c,,
+07 - Laboratory Data,Creatinine,creatinine,,
+07 - Laboratory Data,Creatinine clearance,creatinineclear,,
 08A1 - Sleep Study Data - Acquisition - Sleep Study Type,Type I,type1sleepstudy,,
 08A1 - Sleep Study Data - Acquisition - Sleep Study Type,Type II,type2sleepstudy,,
 08A1 - Sleep Study Data - Acquisition - Sleep Study Type,Type III,type3sleepstudy,,
@@ -133,10 +148,13 @@ category,display_name,id,source,source_id
 08B - Sleep Study Data - Time,Time in bed duration,timeinbedduration,,
 08C1A - Sleep Study Data - Respiratory - Events - Apnea,Central sleep apnea events,csaevent,,
 08C1A - Sleep Study Data - Respiratory - Events - Apnea,Central sleep apneas/hour,csaperhr,,
+08C1A - Sleep Study Data - Respiratory - Events - Apnea,Average central apnea length,avgcsalength,,
 08C1A - Sleep Study Data - Respiratory - Events - Apnea,Obstructive apnea events,osaevent,,
 08C1A - Sleep Study Data - Respiratory - Events - Apnea,Obstructive sleeps apneas/hour,osaperhr,,
+08C1A - Sleep Study Data - Respiratory - Events - Apnea,Average obstructive apnea length,avgosalength,,
 08C1B - Sleep Study Data - Respiratory - Events - Hypopnea,Hyopopnea events,hypopevent,,
 08C1B - Sleep Study Data - Respiratory - Events - Hypopnea,Hyopopneas/hour,hypopperhr,,
+08C1B - Sleep Study Data - Respiratory - Events - Hypopnea,Average hypopnea length,avghypolength,,
 08C1C - Sleep Study Data - Respiratory - Events - Desaturation,Desaturation events,desatevent,SNOMED CT,238159008
 08C2 - Sleep Study Data - Respiratory - Indices,Apnea hypopnea index,ahi,,
 08C2 - Sleep Study Data - Respiratory - Indices,Apnea hypopnea index greater than or equal to 15,ahigteq15,,
@@ -233,6 +251,10 @@ category,display_name,id,source,source_id
 10 - Sleep Symptoms,Modified Epworth Sleepiness Scale score,modepworthscore,,
 10 - Sleep Symptoms,Pediatric Sleep Questionnaire Sleep-Related Breathing Disorder (PSQ-SRBD) score, psqsrbdscore,,
 10 - Sleep Symptoms,Obstructive Sleep Apnea-18 Assessment Tool score,osa18assessscore,,
+10 - Sleep Symptoms,Women's Health Initiative Insomnia Rating Scale,whiinitinsomratescale,,
+10 - Sleep Symptoms,Pittsburgh Insomnia Rating Scale,pittinsomratescale,,
+10 - Sleep Symptoms,Pittsburgh Sleep Quality Index,pittsleepqualindex,,
+10 - Sleep Symptoms,Insomnia Severity Index,insomseverindex,,
 10 - Sleep Symptoms,Excessive daytime sleepiness,excessdaysleepiness,,
 10 - Sleep Symptoms,Problems falling asleep,probfallasleep,,
 10 - Sleep Symptoms,Problems staying asleep,probstayasleep,,
@@ -248,6 +270,10 @@ category,display_name,id,source,source_id
 12 - Adjudicated Events,Congestive heart failure - adjudicated event,chfadjud,SNOMED CT,42343007
 12 - Adjudicated Events,Myocardial infarction - adjudicated event,miadjud,SNOMED CT,22298006
 12 - Adjudicated Events,Stroke - adjudicated event,strokeadju,SNOMED CT,230690007
+12 - Adjudicated Events,All cause hospitalization - adjudicated event,hospadju,,
+12 - Adjudicated Events,Cardiovascular disease hospitalization - adjudicated event,cvhospadju,,
+12 - Adjudicated Events,"Revascularization (PTCA, CABG) - adjudicated event",revascadju,,
+12 - Adjudicated Events,Cardiac arrest - adjudicated event,cardarrestadju,,
 13 - Spirometry,FEV1,fev1,SNOMED CT,59328004
 13 - Spirometry,FEV1/FVC,fev1fvcratio,SNOMED CT,313222007
 13 - Spirometry,FVC,fvc,SNOMED CT,50834005
@@ -295,3 +321,9 @@ category,display_name,id,source,source_id
 14 - Neurocognitive Testing/WRAML2,"Wide Range Assessment of Memory and Learning, Second Edition (WRAML2) - Verbal Learning",wraml2vl,,
 14 - Neurocognitive Testing/WRAML2,"Wide Range Assessment of Memory and Learning, Second Edition (WRAML2) - Verbal Learning Recall",wraml2vlrecall,,
 14 - Neurocognitive Testing/WRAML2,"Wide Range Assessment of Memory and Learning, Second Edition (WRAML2) - Verbal Learning Recognition",wraml2vlrecog,,
+15 - Imaging,Echocardiogram,ech,,
+15 - Imaging,Cardiac MRI,cardmri,,
+15 - Imaging,Coronary calcium scan,coroncalcscan,,
+15 - Imaging,Carotid ultrasound - plaque,carotidusplaque,,
+15 - Imaging,Carotid ultrasound - intima media thickness,carotidusimt,,
+15 - Imaging,Lung volume assessment,lungvolassess,,
