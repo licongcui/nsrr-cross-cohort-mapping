@@ -723,7 +723,6 @@ category,display_name,id,chat,definition,source,time,method,formula,equipment,li
 08J - Sleep Study Data - Quality,Signal quality code,signalqualitycode,quoxim,Quality of oximetry,CHAT,Baseline/follow-up PSG,Coded by scorer,,CHAT PSG QS form,
 08J - Sleep Study Data - Quality,Signal quality code,signalqualitycode,qupsn,Quality of position,CHAT,Baseline/follow-up PSG,Coded by scorer,,CHAT PSG QS form,
 08J - Sleep Study Data - Quality,Signal quality code,signalqualitycode,qupwf,Quality of pleth wave form,CHAT,Baseline/follow-up PSG,Coded by scorer,,CHAT PSG QS form,
-08J - Sleep Study Data - Quality,Signal quality code,signalqualitycode,quref,Quality of reference,CHAT,Baseline/follow-up PSG,Coded by scorer,,CHAT PSG QS form,
 08J - Sleep Study Data - Quality,Signal quality code,signalqualitycode,qusnor,Quality of snore,CHAT,Baseline/follow-up PSG,Coded by scorer,,CHAT PSG QS form,
 08J - Sleep Study Data - Quality,Signal quality code,signalqualitycode,qusum,Quality of SUM,CHAT,Baseline/follow-up PSG,Coded by scorer,,CHAT PSG QS form,
 08J - Sleep Study Data - Quality,Signal quality code,signalqualitycode,qut3,Quality of T3,CHAT,Baseline/follow-up PSG,Coded by scorer,,CHAT PSG QS form,
