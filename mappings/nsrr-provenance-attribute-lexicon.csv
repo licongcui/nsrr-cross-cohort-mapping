@@ -9,7 +9,7 @@ SOF,Final visit,Reported by subject,Medication review form
 ,Visit 8,Observed, tape measure
 ,,Reported by scorer,Health interview form
 ,,Reported by parent or guardian,PSG scoring notes form
-,,Documented by ENT,Sleep habits questionnaire
+,,Documented by ENT,Sleep habits questionnaire (SHHS1)
 ,,PI-physical examination and review of medical and sleep history,Quality assessment & preliminary report form (SHHS1)
 ,,Fasting venipuncture,Child demographic information form
 ,,Administered by psychometrist,ENT evaluation and pre-operative questionnaire
@@ -68,3 +68,5 @@ SOF,Final visit,Reported by subject,Medication review form
 ,,,Heartbeat sleep health final questionnaire form
 ,,,MAC6 cardiograph
 ,,,Compumedics Siesta Unit
+,,,Morning survey form (SHHS1)
+,,,Sleep habits and lifestyle questionnaire (SHHS2)
