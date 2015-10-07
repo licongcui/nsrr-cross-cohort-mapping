@@ -2,7 +2,7 @@ category,display_name,id,heartbeat,definition,source,time,method,formula,equipme
 01 - Demographics,Age,age,age,Age,Heartbeat,Baseline visit,Reported by subject,,Heartbeat physical measurements form,
 01 - Demographics,Age,age,agecat,Categorical Age,Heartbeat,Baseline/final visit,Reported by subject,,Heartbeat physical measurements form,
 01 - Demographics,Age,age,calc_age,Age,Heartbeat,Baseline/final visit,Reported by subject,,Heartbeat physical measurements form,
-01 - Demographics,Ethnicity,ethnicity,ethnicity,HHQB: Ethnicity,,,,,,
+01 - Demographics,Ethnicity,ethnicity,ethnicity,HHQB: Ethnicity,Heartbeat,Baseline visit,Reported by subject,,Heartbeat sleep health baseline questionnaire form,
 01 - Demographics,Gender,gender,male,Male gender,Heartbeat,Baseline/final visit,,,,
 01 - Demographics,Race,race,amerindian,HHQB: Race: American Indian or Alaska Native,,Baseline/final visit,,,,
 01 - Demographics,Race,race,asian,HHQB: Race: Asian,,,,,,
