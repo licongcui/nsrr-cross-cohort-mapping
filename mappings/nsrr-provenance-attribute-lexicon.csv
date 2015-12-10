@@ -4,7 +4,7 @@ CHAT,Baseline visit,Measured,Electrocardiograph - 12 lead
 Heartbeat,Follow-up PSG,Recorded,"Follow-up PSG: Compumedics P-series Sleep Monitoring System, version 3"
 CFS,Follow-up visit,Reported by parent cohort,Health interview
 SOF,Final visit,Reported by subject,Medication review form
-,Final PSG,Transcribed with physician review,Sphygnomanometer - mercury
+MrOS,Final PSG,Transcribed with physician review,Sphygnomanometer - mercury
 ,Visit 5,Derived,SECA Integra 815 digital scale 
 ,Visit 8,Observed, tape measure
 ,,Reported by scorer,Health interview form
@@ -72,3 +72,7 @@ SOF,Final visit,Reported by subject,Medication review form
 ,,,Sleep habits and lifestyle questionnaire (SHHS2)
 ,,,SpectralTrainFig
 ,,,BlockEdfSummarizeFig
+,,,Anthropometry Form (MrOS 1)
+,,,Medical History Form (MrOS 1)
+,,,Medical History Form (MrOS 2)
+,,,Compumedics Safiro Sleep Monitoring System
