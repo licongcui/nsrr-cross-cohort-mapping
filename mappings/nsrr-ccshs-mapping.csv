@@ -1,8 +1,8 @@
 category,display_name,id,ccshs,definition,source,time,method,formula,equipment,link
-01 - Demographics,Age,age,age,Age at time of visit,,,,,,
-01 - Demographics,Ethnicity,ethnicity,ethnicity,Ethnicity,,,,,,
-01 - Demographics,Gender,gender,male,Male gender,,,,,,
-01 - Demographics,Race,race,race3,Race,,,,,,
+01 - Demographics,Age,age,age,Age at time of visit,CCSHS,TREC,Reported by parent or guardian,,TREC: Youth Sleep and Health Questionnaire: Youth Self-Report,
+01 - Demographics,Ethnicity,ethnicity,ethnicity,Ethnicity,CCSHS,TREC,Reported by parent or guardian,,,
+01 - Demographics,Gender,gender,male,Male gender,CCSHS,TREC,Reported by parent or guardian,,,
+01 - Demographics,Race,race,race3,Race,CCSHS,TREC,Reported by parent or guardian,,,
 01 - Demographics,Education,education,,,,,,,,
 01 - Demographics,Income,income,ystatus,Rate socioeconomic standing based on ladder,,,,,,
 01 - Demographics,Employed,employed,,,,,,,,
