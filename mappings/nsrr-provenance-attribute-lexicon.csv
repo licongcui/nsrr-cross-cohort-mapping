@@ -5,10 +5,10 @@ Heartbeat,Follow-up PSG,Recorded,"Follow-up PSG: Compumedics P-series Sleep Moni
 CFS,Follow-up visit,Reported by parent cohort,Health interview
 SOF,Final visit,Reported by subject,Medication review form
 MrOS,Final PSG,Transcribed with physician review,Sphygnomanometer - mercury
-,Visit 5,Derived,SECA Integra 815 digital scale 
+CCSHS,Visit 5,Derived,SECA Integra 815 digital scale 
 ,Visit 8,Observed, tape measure
-,,Reported by scorer,Health interview form
-,,Reported by parent or guardian,PSG scoring notes form
+,TREK: In Lab Visit,Reported by scorer,Health interview form
+,TREK: PSG,Reported by parent or guardian,PSG scoring notes form
 ,,Documented by ENT,Sleep habits questionnaire (SHHS1)
 ,,PI-physical examination and review of medical and sleep history,Quality assessment & preliminary report form (SHHS1)
 ,,Fasting venipuncture,Child demographic information form
