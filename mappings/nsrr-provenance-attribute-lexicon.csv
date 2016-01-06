@@ -10,8 +10,8 @@ CCSHS,Visit 5,Derived,SECA Integra 815 digital scale
 ,TREK: In Lab Visit,Reported by scorer,Health interview form
 ,TREK: In Lab PSG,Reported by parent or guardian,PSG scoring notes form
 ,TREK: Home Actigraphy,Documented by ENT,Sleep habits questionnaire (SHHS1)
-,,PI-physical examination and review of medical and sleep history,Quality assessment & preliminary report form (SHHS1)
-,,Fasting venipuncture,Child demographic information form
+,MrOS: In Clinic Visit,PI-physical examination and review of medical and sleep history,Quality assessment & preliminary report form (SHHS1)
+,MrOS: In Home PSG Visit,Fasting venipuncture,Child demographic information form
 ,,Administered by psychometrist,ENT evaluation and pre-operative questionnaire
 ,,Coded by scorer,Inelastic measuring tape x long with lead before the zero line
 ,,Reported by child,
