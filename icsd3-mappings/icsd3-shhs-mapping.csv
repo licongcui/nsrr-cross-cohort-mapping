@@ -18,9 +18,9 @@ icdadultosa_symptoms,sh308e,Sleep Habits (SHHS2): Frequency of excessive daytime
 icdadultosa_symptoms,sh308f,Sleep Habits (SHHS2): Frequency of not getting enough sleep,"4,5"
 icdadultosa_symptoms,sh308g,Sleep Habits (SHHS2): Frequency of taking sleeping pills,"4,5"
 icdadultosa_symptoms,,, 
-icdadultosa_symptoms,hosnr02,Sleep Habits (SHHS1): Frequency of snoring,"2,3,4"
+icdadultosa_symptoms,hosnr02,Sleep Habits (SHHS1): Frequency of snoring,"3,4"
 icdadultosa_symptoms,stpbrt02,Sleep Habits (SHHS1): Stop breathing during sleep,1
-icdadultosa_symptoms,sh310,Sleep Habits (SHHS2): Frequency of snoring,"2,3,4"
+icdadultosa_symptoms,sh310,Sleep Habits (SHHS2): Frequency of snoring,"3,4"
 icdadultosa_symptoms,sh314,Sleep Habits (SHHS2): Stop breathing during sleep,1
 icdadultosa_symptoms,sh315,Sleep Habits (SHHS2): Frequency of stopping breathing during sleep,"2,3,4"
 icdadultosa_history,htnderv_s1,Hypertension (SHHS1),yes
