@@ -13,17 +13,17 @@ HCHS,Visit 8,Observed, tape measure
 ,MrOS: In Clinic Visit,PI-physical examination and review of medical and sleep history,Quality assessment & preliminary report form (SHHS1)
 ,MrOS: In Home PSG Visit,Fasting venipuncture,Child demographic information form
 ,HCHS: Baseline clinic visit,Administered by psychometrist,ENT evaluation and pre-operative questionnaire
-,,Coded by scorer,Inelastic measuring tape x long with lead before the zero line
+,HCHS: Baseline In Home PSG,Coded by scorer,Inelastic measuring tape x long with lead before the zero line
 ,,Reported by child,
 ,,Documented by recruiter,Healthometer digital scale or similar
 ,,Physician diagnosed,Holtain stadiometer
 ,,Physician diagnosed (self reported),Sliding caliper
 ,,Assessed,Child behavior checklist
 ,,Medication use,CHAT medical history form
-,,,CHAT protocol defined eligibility form
-,,,CHAT physical examination form
-,,,Embla PSG system
-,,,Compumedics PSG system
+,,ECG reports,CHAT protocol defined eligibility form
+,," procedure (angioplasty, stent, bypass)",CHAT physical examination form
+,,Interviewer scanned/transcribed medications,Embla PSG system
+,,Medication Use Questionnaire ,Compumedics PSG system
 ,,,Xltek PSG system
 ,,,Biologic PSG system
 ,,,Grass Twin PSG sytem
@@ -91,3 +91,5 @@ HCHS,Visit 8,Observed, tape measure
 ,,,Gulick II 150 and 250 cm anthropometric tape
 ,,,OMI spirometry software (version 5.05.11)
 ,,,SensorMedics 1022 dry-rolling seal volume spirometer
+,,,GEMSIT MAC 1200 portable electrocardiograph
+,,,"Apnea Risk Evaluation System (ARES, Unicorder, Advanced Brain Imaging)"
