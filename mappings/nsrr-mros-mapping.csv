@@ -182,7 +182,7 @@ category,display_name,id,mros,definition,source,time,method,formula,equipment,li
 05 - Medications,Loop Diuretic,loopdiuretic,m1diloop,Loop diuretic use,MrOS,In Clinic Vistit 1/In Clinic Visit 2,Reported by subject,,,
 05 - Medications,Low Molecular Weight Heparin,lmwheparin,,,,,,,,
 05 - Medications,l-Thyroxine,thyroxine,m1thy,Thyroid agonist use,MrOS,In Clinic Vistit 1/In Clinic Visit 2,Reported by subject,,,
-05 - Medications,l-Triiopointhyronine,triiopointhy,m1thy,Thyroid agonist use,MrOS,In Clinic Vistit 1/In Clinic Visit 2,Reported by subject,,,
+05 - Medications,l-Triiodothyronine,triiodothy,m1thy,Thyroid agonist use,MrOS,In Clinic Vistit 1/In Clinic Visit 2,Reported by subject,,,
 05 - Medications,Monoamine Oxidase Inhibitor,moainhi,m1adepr,Antidepressant use,MrOS,In Clinic Vistit 1/In Clinic Visit 2,Reported by subject,,,
 05 - Medications,Monoamine Oxidase Inhibitor,moainhi,m1maoinh,MAO inhibitor antidepressant use,MrOS,In Clinic Vistit 1/In Clinic Visit 2,Reported by subject,,,
 05 - Medications,Nicotinic Acid,nicotinicacid,,,,,,,,

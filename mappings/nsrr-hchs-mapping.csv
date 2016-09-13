@@ -179,7 +179,7 @@ category,display_name,id,hchs,definition,source,time,method,formula,equipment,li
 05 - Medications,Loop Diuretic,loopdiuretic,med_diuretic,Diuretics,hchs,baseline clinic visit,Interviewer scanned/transcribed medications,,Medication Use Questionnaire ,
 05 - Medications,Low Molecular Weight Heparin,lmwheparin,med_anticoag_heparin,Heparin anticoagulants,hchs,baseline clinic visit,Interviewer scanned/transcribed medications,,Medication Use Questionnaire ,
 05 - Medications,l-Thyroxine,thyroxine,,,,,,,,
-05 - Medications,l-Triiopointhyronine,triiopointhy,,,,,,,,
+05 - Medications,l-Triiodothyronine,triiodothy,,,,,,,,
 05 - Medications,Monoamine Oxidase Inhibitor,moainhi,,,,,,,,
 05 - Medications,Nicotinic Acid,nicotinicacid,med_fibares_nicoacid,Fibric/Nicotinic Acids (trt of TG and HDL),hchs,baseline clinic visit,Interviewer scanned/transcribed medications,,Medication Use Questionnaire ,
 05 - Medications,Nicotinic Acid,nicotinicacid,med_lld,Lipid lowering drugs/Antihyperlipidemics (LLD),hchs,baseline clinic visit,Interviewer scanned/transcribed medications,,Medication Use Questionnaire ,
