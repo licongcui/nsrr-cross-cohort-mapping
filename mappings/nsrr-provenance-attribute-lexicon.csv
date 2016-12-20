@@ -7,14 +7,14 @@ SOF,Final visit,Reported by subject,Medication review form
 MrOS,Final PSG,Transcribed with physician review,Sphygnomanometer - mercury
 CCSHS,Visit 5,Derived,SECA Integra 815 digital scale 
 HCHS,Visit 8,Observed, tape measure
-,TREK: In Lab Visit,Reported by scorer,Health interview form
+MESA,TREK: In Lab Visit,Reported by scorer,Health interview form
 ,TREK: In Lab PSG,Reported by parent or guardian,PSG scoring notes form
 ,TREK: Home Actigraphy,Documented by ENT,Sleep habits questionnaire (SHHS1)
 ,MrOS: In Clinic Visit,PI-physical examination and review of medical and sleep history,Quality assessment & preliminary report form (SHHS1)
 ,MrOS: In Home PSG Visit,Fasting venipuncture,Child demographic information form
 ,HCHS: Baseline clinic visit,Administered by psychometrist,ENT evaluation and pre-operative questionnaire
 ,HCHS: Baseline In Home PSG,Coded by scorer,Inelastic measuring tape x long with lead before the zero line
-,,Reported by child,
+,Exam 5,Reported by child,
 ,,Documented by recruiter,Healthometer digital scale or similar
 ,,Physician diagnosed,Holtain stadiometer
 ,,Physician diagnosed (self reported),Sliding caliper
