@@ -1,0 +1,28 @@
+id,chat,definition,positive_value
+icdadultosa_symptoms,essscor,ESS: Summary Score,>10
+icdadultosa_symptoms,diaexslp,Excessive (too much) Sleepiness,1
+icdadultosa_symptoms,concent,"Over the last month, have you experienced: sleepiness that interferes with your concentration","1,2,3,4"
+icdadultosa_symptoms,excslpdy,"Over the last month, have you experienced: excessive (too much) sleepiness during the day","1,2,3,4"
+icdadultosa_symptoms,nmcaracc,How many 'near miss' car accidents have you had due to sleepiness,>0
+icdadultosa_symptoms,offroad,"Over the last month, have you experienced: had to pull off road while driving or almost had been in a car accident due to sleepiness","1,2,3,4"
+icdadultosa_symptoms,slpcrash,"Over the last month, have you experienced: almost had/been in a car accident because of sleepiness","1,2,3,4"
+icdadultosa_symptoms,fatigue,"Over the last month, have you experienced: feeling tired or fatigued after you sleep","1,2,3,4"
+icdadultosa_symptoms,insodiag,Physician-diagnosed Insomnia,1
+icdadultosa_symptoms,brstops,"During the last month, have you had, or have been told you do the following while asleep or trying to sleep: stop breathing","1,2,3,4"
+icdadultosa_symptoms,snort,"During the last month, have you had, or have been told you do the following while asleep or trying to sleep: snort or gasp","1,2,3,4"
+icdadultosa_symptoms,loudsnor,"During the last month, have you had, or have been told you do the following while asleep or trying to sleep: snore","2,3,4"
+icsdcsacsb_symptoms,psl1a,Snores more than half the time?,1
+icsdcsacsb_symptoms,psl1b,Always snores?,1
+icsdcsacsb_symptoms,psl1c,Snores loudly?,1
+icsdcsacsb_symptoms,psl4a,Wake up feeling unrefreshed in the morning?,1
+icsdcsacsb_symptoms,psl4b,Have a problem with sleepiness during the day?,1
+icsdcsacsb_symptoms,psl5,Has a teacher commented that child appears sleepy during the day?,1
+icsdcsacsb_symptoms,psl6,Is it hard to wake your child up in the morning?,1
+icsdcsacsb_symptoms,new_osa1a,Loud Snoring,2
+icsdcsacsb_symptoms,new_osa1b,Breath Holding,2
+icsdcsacsb_symptoms,new_osa1c,Choking,2
+icsdcsacsb_symptoms,new_osa1d,Restless Sleep,2
+icsdcsacsb_psg5events,cai,Central apnea index,
+icsdcsacsb_psgratio,cent_obs_ratio,Central/Obstructive Apnea ratio at all desaturations,
+icsdcsacsb_psgratio,cent_obs_ratioa,Central/Obstructive Apnea ratio at all desaturations or with arousal,
+icsdcsacsb_psgcsb,period,Periodic breathing >= 10 minutes,1

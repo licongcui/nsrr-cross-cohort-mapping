@@ -17,7 +17,6 @@ icdadultosa_symptoms,sh308d,Sleep Habits (SHHS2): Frequency of feeling unrested,
 icdadultosa_symptoms,sh308e,Sleep Habits (SHHS2): Frequency of excessive daytime sleepiness,"4,5"
 icdadultosa_symptoms,sh308f,Sleep Habits (SHHS2): Frequency of not getting enough sleep,"4,5"
 icdadultosa_symptoms,sh308g,Sleep Habits (SHHS2): Frequency of taking sleeping pills,"4,5"
-icdadultosa_symptoms,,, 
 icdadultosa_symptoms,hosnr02,Sleep Habits (SHHS1): Frequency of snoring,"3,4"
 icdadultosa_symptoms,stpbrt02,Sleep Habits (SHHS1): Stop breathing during sleep,1
 icdadultosa_symptoms,sh310,Sleep Habits (SHHS2): Frequency of snoring,"3,4"
@@ -80,3 +79,34 @@ icsdadultosa_psg15events,oardrop4,"Obstructive Apnea per hour (REM, Other, 4% ox
 icsdadultosa_psg15events,oardrop5,"Obstructive Apnea per hour (REM, Other, 5% oxygen desaturation)",
 icsdadultosa_psg15events,oai4p,Obstructive Apnea Index 4% oxygen desaturation,
 icsdadultosa_psg15events,oai4pa,Obstructive Apnea Index 4% oxygen desaturation or arousal,
+icsdcsacsb_symptoms,ess_s1,Epworth Sleepiness Scale score (SHHS1),>10
+icsdcsacsb_symptoms,ess_s2,Epworth Sleepiness Scale score (SHHS2),>10
+icsdcsacsb_symptoms,attabl02,Sleep Habits (SHHS1): Fall asleep while at the dinner table,"3,4"
+icsdcsacsb_symptoms,drive02,Sleep Habits (SHHS1): Fall asleep while driving,"2,3,4"
+icsdcsacsb_symptoms,funres02,Sleep Habits (SHHS1): Frequency of feeling unrested,"4,5"
+icsdcsacsb_symptoms,nges02,Sleep Habits (SHHS1): Frequency of not getting enough sleep,"4,5"
+icsdcsacsb_symptoms,sleepy02,Sleep Habits (SHHS1): Frequency of excessive daytime sleepiness,"4,5"
+icsdcsacsb_symptoms,tfa02,Sleep Habits (SHHS1): Frequency of trouble falling asleep,"4,5"
+icsdcsacsb_symptoms,tkpill02,Sleep Habits (SHHS1): Frequency of taking sleeping pills,"4,5"
+icsdcsacsb_symptoms,wu2em02,Sleep Habits (SHHS1): Frequency of waking up too early and unable to resume sleep,"4,5"
+icsdcsacsb_symptoms,wudnrs02,Sleep Habits (SHHS1): Frequency of waking up and having difficulty resuming sleep,"4,5"
+icsdcsacsb_symptoms,sh308a,Sleep Habits (SHHS2): Frequency of trouble falling asleep,"4,5"
+icsdcsacsb_symptoms,sh308b,Sleep Habits (SHHS2): Frequency of waking up and having difficulty resuming sleep,"4,5"
+icsdcsacsb_symptoms,sh308c,Sleep Habits (SHHS2): Frequency of waking up too early and unable to resume sleep,"4,5"
+icsdcsacsb_symptoms,sh308d,Sleep Habits (SHHS2): Frequency of feeling unrested,"4,5"
+icsdcsacsb_symptoms,sh308e,Sleep Habits (SHHS2): Frequency of excessive daytime sleepiness,"4,5"
+icsdcsacsb_symptoms,sh308f,Sleep Habits (SHHS2): Frequency of not getting enough sleep,"4,5"
+icsdcsacsb_symptoms,sh308g,Sleep Habits (SHHS2): Frequency of taking sleeping pills,"4,5"
+icsdcsacsb_symptoms,hosnr02,Sleep Habits (SHHS1): Frequency of snoring,"3,4"
+icsdcsacsb_symptoms,stpbrt02,Sleep Habits (SHHS1): Stop breathing during sleep,1
+icsdcsacsb_symptoms,sh310,Sleep Habits (SHHS2): Frequency of snoring,"3,4"
+icsdcsacsb_symptoms,sh314,Sleep Habits (SHHS2): Stop breathing during sleep,1
+icsdcsacsb_symptoms,sh315,Sleep Habits (SHHS2): Frequency of stopping breathing during sleep,"2,3,4"
+icsdcsacsb_history,afib_s2,Atrial fibrillation or flutter,yes
+icsdcsacsb_history,hf15,MD Reported Heart Failure (SHHS1),yes
+icsdcsacsb_history,stroke15,MD Reported Stroke (SHHS1),yes
+icsdcsacsb_history,prev_hx_stroke,Previous history of stroke,yes
+icsdcsacsb_psg5events,cai0p,Central Apnea Index all oxygen desaturations, 
+icsdcsacsb_psgratio,cent_obs_ratio,Central/Obstructive Apnea ratio at all desaturations, 
+icsdcsacsb_psgratio,cent_obs_ratioa,Central/Obstructive Apnea ratio at all desaturations or with arousal, 
+icsdcsacsb_psgcsb,csbre,PSG Quality Assessment (SHHS2): Periodic breathing (10 min),1
