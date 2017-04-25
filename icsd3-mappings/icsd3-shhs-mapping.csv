@@ -110,3 +110,6 @@ icsdcsacsb_psg5events,cai0p,Central Apnea Index all oxygen desaturations,
 icsdcsacsb_psgratio,cent_obs_ratio,Central/Obstructive Apnea ratio at all desaturations, 
 icsdcsacsb_psgratio,cent_obs_ratioa,Central/Obstructive Apnea ratio at all desaturations or with arousal, 
 icsdcsacsb_psgcsb,csbre,PSG Quality Assessment (SHHS2): Periodic breathing (10 min),1
+icsdrls_ symptoms_onset,hi212,Health Interview (SHHS2): restless legs worse when not moving,1
+icsdrls_ symptoms_relief,hi213,Health Interview (SHHS2): restless leg symptoms improve with walking,1
+icsdrls_ symptoms_time,hi214a,Health Interview (SHHS2): Restless leg symptoms worse at night,1

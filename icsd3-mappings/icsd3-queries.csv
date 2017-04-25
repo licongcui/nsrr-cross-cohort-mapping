@@ -3,3 +3,4 @@ designation,query
 Chronic Insomnia Disorder,icsdinsom_history AND icsdinsom_symptoms
 Central Sleep Apnea with Cheyne-Stokes Breathing,(icsdcsacsb_symptoms OR icsdcsacsb_history) AND (SUM(icsdcsacsb_psg5events >= 5)) AND (icsdcsacsb_psgratio > 50) AND icsdcsacsb_psgcsb
 Central Apnea Due to a Medical Disorder without Cheyne-Stokes Breathing,icsdcsacsb_symptoms  AND (SUM(icsdcsacsb_psg5events >= 5)) AND (icsdcsacsb_psgratio > 50) AND NOT icsdcsacsb_psgcsb
+Restless Legs Syndrome,icsdrls_ symptoms_onset AND icsdrls_ symptoms_relief AND icsdrls_ symptoms_time

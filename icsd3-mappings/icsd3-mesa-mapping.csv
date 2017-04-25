@@ -29,3 +29,6 @@ icsdcsacsb_psg5events,cai0p5,Calculated - Central Apnea Index All Desats,
 icsdcsacsb_psgratio,cent_obs_ratio,Central/Obstructive Apnea ratio at all desaturations,
 icsdcsacsb_psgratio,cent_obs_ratioa,Central/Obstructive Apnea ratio at all desaturations or with arousal,
 icsdcsacsb_psgcsb,period5,PSG QS: Periodic Breathing >=10 Min,1
+icsdrls_ symptoms_onset,rubbnglgs5,Feel Need To Move To Relieve Discomfort By Walking Or Rub Legs,1
+icsdrls_ symptoms_relief,wrserest5,Symptoms Worse When At Rest With Temporary Relief By Activity,1
+icsdrls_ symptoms_time,wrseltr5,Symptoms Worse Later In Day Or Night,1

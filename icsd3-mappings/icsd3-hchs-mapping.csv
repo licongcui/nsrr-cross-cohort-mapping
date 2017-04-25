@@ -26,3 +26,6 @@ icsdinsom_history,slea6,Wake up earlier than you plan,"4,5"
 icsdinsom_symptoms,slea10,Feel Sleepy during the Day,"3,4,5"
 icsdinsom_symptoms,slea9,Sleep difficulties make irritable (SLEA9),"3,4,5"
 icsdinsom_symptoms,ess,Epworth Sleepiness Scale,>10
+icsdrls_ symptoms_onset,slea17,Discomfort in legs worse when at rest,1
+icsdrls_ symptoms_relief,slea16,Need to relieve disconfort in legs,1
+icsdrls_ symptoms_time,slea18,Discomfort in legs worse later in day or at night,1
