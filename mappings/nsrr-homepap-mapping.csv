@@ -1,8 +1,8 @@
 category,display_name,id,homepap,definition,source,time,method,formula,equipment,link
-01 - Demographics,Age,age,age,Age at baseline visit,,,,,,
-01 - Demographics,Ethnicity,ethnicity,ethnicity,Ethnicity,,,,,,
-01 - Demographics,Gender,gender,gender,Gender,,,,,,
-01 - Demographics,Race,race,race3,Race,,,,,,
+01 - Demographics,Age,age,age,Age at baseline visit,homepap,homepap screening visit,Reported by subject,,Eligibility Form,
+01 - Demographics,Ethnicity,ethnicity,ethnicity,Ethnicity,homepap,homepap screening visit,Reported by subject,,Eligibility Form,
+01 - Demographics,Gender,gender,gender,Gender,homepap,homepap screening visit,Reported by subject,,Eligibility Form,
+01 - Demographics,Race,race,race3,Race,homepap,homepap screening visit,Reported by subject,,Eligibility Form,
 01 - Demographics,Education,education,,,,,,,,
 01 - Demographics,Income,income,,,,,,,,
 01 - Demographics,Employed,employed,,,,,,,,
