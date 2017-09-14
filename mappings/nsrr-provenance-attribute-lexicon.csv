@@ -8,17 +8,17 @@ MrOS,Final PSG,Transcribed with physician review,Sphygnomanometer - mercury
 CCSHS,Visit 5,Derived,SECA Integra 815 digital scale 
 HCHS,Visit 8,Observed, tape measure
 MESA,TREK: In Lab Visit,Reported by scorer,Health interview form
-,TREK: In Lab PSG,Reported by parent or guardian,PSG scoring notes form
+HomePAP,TREK: In Lab PSG,Reported by parent or guardian,PSG scoring notes form
 ,TREK: Home Actigraphy,Documented by ENT,Sleep habits questionnaire (SHHS1)
 ,MrOS: In Clinic Visit,PI-physical examination and review of medical and sleep history,Quality assessment & preliminary report form (SHHS1)
 ,MrOS: In Home PSG Visit,Fasting venipuncture,Child demographic information form
 ,HCHS: Baseline clinic visit,Administered by psychometrist,ENT evaluation and pre-operative questionnaire
 ,HCHS: Baseline In Home PSG,Coded by scorer,Inelastic measuring tape x long with lead before the zero line
 ,Exam 5,Reported by child,
-,,Documented by recruiter,Healthometer digital scale or similar
-,,Physician diagnosed,Holtain stadiometer
-,,Physician diagnosed (self reported),Sliding caliper
-,,Assessed,Child behavior checklist
+,HomePAP Screening visit,Documented by recruiter,Healthometer digital scale or similar
+,HomePAP month 3 follow up visit,Physician diagnosed,Holtain stadiometer
+,HomePAP month 1 follow up visit,Physician diagnosed (self reported),Sliding caliper
+,HomePAP baseline visit,Assessed,Child behavior checklist
 ,,Medication use,CHAT medical history form
 ,,ECG reports,CHAT protocol defined eligibility form
 ,," procedure (angioplasty, stent, bypass)",CHAT physical examination form
@@ -99,3 +99,5 @@ MESA,TREK: In Lab Visit,Reported by scorer,Health interview form
 ,,,MESA Actigraphy QS Form
 ,,, Actiwatch Spectrum Actigraphy Device (Philips Respironics)
 ,,, Respironics Actiware 5 Software
+,,,Embletta X-30
+,,,Respironics Renstar Auto M Series with C-Flex
