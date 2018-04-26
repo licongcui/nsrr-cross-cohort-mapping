@@ -19,8 +19,8 @@ HomePAP,TREK: In Lab PSG,Reported by parent or guardian,PSG scoring notes form
 ,HomePAP month 3 follow up visit,Physician diagnosed,Holtain stadiometer
 ,HomePAP month 1 follow up visit,Physician diagnosed (self reported),Sliding caliper
 ,HomePAP baseline visit,Assessed,Child behavior checklist
-,,Medication use,CHAT medical history form
-,,ECG reports,CHAT protocol defined eligibility form
+,BestAIR screening visit,Medication use,CHAT medical history form
+,BestAIR Baseline Research Exam,ECG reports,CHAT protocol defined eligibility form
 ,," procedure (angioplasty, stent, bypass)",CHAT physical examination form
 ,,Interviewer scanned/transcribed medications,Embla PSG system
 ,,Medication Use Questionnaire ,Compumedics PSG system
@@ -103,3 +103,5 @@ HomePAP,TREK: In Lab PSG,Reported by parent or guardian,PSG scoring notes form
 ,,,HomePAP Epworth Sleepiness Scale (ESS)
 ,,,HomePAP Functional Outcomes of Sleep Questionnaire (FOSQ)
 ,,,HomePap Short Form 36
+,,,BestAIR Eligibility Form
+,,,Spacelabs  Ambulatory Blood Pressure monitor
