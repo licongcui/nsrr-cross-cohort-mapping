@@ -19,10 +19,10 @@ HomePAP,TREK: In Lab PSG,Reported by parent or guardian,PSG scoring notes form
 ,HomePAP month 3 follow up visit,Physician diagnosed,Holtain stadiometer
 ,HomePAP month 1 follow up visit,Physician diagnosed (self reported),Sliding caliper
 ,HomePAP baseline visit,Assessed,Child behavior checklist
-,BestAIR screening visit,Medication use,CHAT medical history form
-,BestAIR Baseline Research Exam,ECG reports,CHAT protocol defined eligibility form
-,," procedure (angioplasty, stent, bypass)",CHAT physical examination form
-,,Interviewer scanned/transcribed medications,Embla PSG system
+,BestAIR  Visit 1 ( Screening visit),Medication use,CHAT medical history form
+,BestAIR Visit 2 ( Baseline Research visit),ECG reports,CHAT protocol defined eligibility form
+,BestAir Visit 3 ( 6 month visit)," procedure (angioplasty, stent, bypass)",CHAT physical examination form
+,BestAir Visit 4 ( 12 month visit),Interviewer scanned/transcribed medications,Embla PSG system
 ,,Medication Use Questionnaire ,Compumedics PSG system
 ,,,Xltek PSG system
 ,,,Biologic PSG system
